@@ -4,16 +4,12 @@
 LEDE源码：
 https://github.com/coolsnowwolf/lede
 
-IMMORTALWRT源码：
-https://github.com/immortalwrt/immortalwrt
-
 # 固件简要说明：
 
 固件每天早上4点自动编译
 
-Rockchip——RK系列，包含R2S、R4S、R5C、R66S、R68S
+Rockchip——RK系列，包含R5C、H66K
 
-X64——X64系列，包含X64、X86
 
 # 目录简要说明：
 
