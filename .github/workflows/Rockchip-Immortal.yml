@@ -2,9 +2,9 @@
 name: Rockchip-Immortal
 
 on:
-  #自动编译：每周日早上6点
+  #自动编译：每周六早上6点
   schedule:
-    - cron: 0 22 * * 7
+    - cron: 0 22 * * 6
   #手动编译
   workflow_dispatch:
 
